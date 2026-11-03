@@ -1,6 +1,6 @@
 # Solo simulation disclosure
 
-Kenji Gunawan owns both kenjigunawan (role A) and prayerisreal (role B).
+Kenji Gunawan owns both kenjigunawan (role A) and prayerisreal (role B, display name Real KG).
 No second student participated. This exercise was prepared with Codex assistance.
 
 The exercise used two separate local clones and a local bare remote to produce
