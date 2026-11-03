@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Kenji Gunawan
-kegunawan@ucsd.edu
+Kenji Gunawan and Real KG
