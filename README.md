@@ -1,2 +1,2 @@
 # DSC180A-Methodology-3
-Kenji Gunawan (kenjigunawan, role A)
+Kenji Gunawan (prayerisreal, simulated role B)
